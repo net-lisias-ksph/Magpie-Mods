@@ -1,5 +1,9 @@
 # Magpie Mods :: Change Log
 
+* 2020-0326: 1.4.8 (Skonks) for KSP 1.9.1
+	+ Felt like making some planes so made cfgs for: Airplane plus, Open Cockpit & KAX
+	+ Also added KPBS, X-20-Moroz
+	+ Space Y lifters cfg by Mabdi36
 * 2020-0324: 1.4.7 (Skonks) for KSP 1.9.1
 	+ Added; FuelTanksPlus,  KPBS,  Quiztech, Koose,  Deepfreeze,  MunarIND,  ModPods, KipardSkylon, FlatBottomShuttleSystems
 	+ Fixed;NoseCones
