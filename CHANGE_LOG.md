@@ -1,5 +1,9 @@
 # Magpie Mods :: Change Log
 
+* 2020-0322: 1.4.5 (Skonks) for KSP 1.9.1
+	+ Fixed Restock Mk2 Tanks
+	+ Fixed MH structural panel variants
+	+ Added; Kerblaism, CX Aero,
 * 2020-0322: 1.4.4 (Skonks) for KSP 1.9.1
 	+ Fixed Stock StackCoupler Variants
 * 2020-0321: 1.4.3 (Skonks) for KSP 1.9.1
