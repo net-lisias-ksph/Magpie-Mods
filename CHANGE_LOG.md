@@ -1,5 +1,9 @@
 # Magpie Mods :: Change Log
 
+* 2020-0708: 1.5.6 (Skonks) for KSP 1.10.0
+	+ Update stock cfg to 1.10
+	+ Updated Tantares cfg
+	+ S.O.C.K
 * 2020-0527: 1.5.5 (Skonks) for KSP 1.9.1
 	+ General bug fixes
 	+ Updated KK, space X
