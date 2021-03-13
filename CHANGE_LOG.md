@@ -1,5 +1,20 @@
 # Magpie Mods :: Change Log
 
+* 2020-0430: 1.5.3 (Skonks) for KSP 1.9.1
+	+ Fixed Restock LaunchClamps
+	+ Updated Knes to Knes.1.7
+	+ Added Cfgs For:
+	+ AB_Launchers
+	+ Chrayol
+	+ CRE
+	+ Energia
+	+ HGR
+	+ Kerbalized Soyuz
+	+ Kerbalized Space X
+	+ Space Y expanded
+	+ KK's Space X
+	+ SteamPunk
+	+ OrbitalTug
 * 2020-0429: 1.5.2 (Skonks) for KSP 1.9.1
 	+ Removed Foil tanks from restock cfg
 * 2020-0429: 1.5.1 (Skonks) for KSP 1.9.1
