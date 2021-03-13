@@ -1,5 +1,10 @@
 # Magpie Mods :: Change Log
 
+* 2020-0406: 1.4.9 (Skonks) for KSP 1.9.1
+	+ If Updating please delete old version I added folders for neatness so it wont overwrite the old cfgs
+	+ Fixed Stock 1.875 Variants
+	+ Added cfgs for: DaMicheal's, Darkside, FASA
+	+ Optional Extras for more fairing variants
 * 2020-0326: 1.4.8 (Skonks) for KSP 1.9.1
 	+ Felt like making some planes so made cfgs for: Airplane plus, Open Cockpit & KAX
 	+ Also added KPBS, X-20-Moroz
