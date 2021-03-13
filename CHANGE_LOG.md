@@ -1,5 +1,8 @@
 # Magpie Mods :: Change Log
 
+* 2020-0729: 1.5.7 (Skonks) for KSP 1.10.1
+	+ Updated Knes cfg
+	+ Restock Dark fairing patch updated for 1.10.1
 * 2020-0708: 1.5.6 (Skonks) for KSP 1.10.0
 	+ Update stock cfg to 1.10
 	+ Updated Tantares cfg
