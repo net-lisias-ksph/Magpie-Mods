@@ -1,5 +1,9 @@
 # Magpie Mods :: Change Log
 
+* 2020-0429: 1.5.1 (Skonks) for KSP 1.9.1
+	+ Updated Restock cfg
+	+ added
+	+ CapsuleCorp, KerbodynePlus, WernhersOldStuff, LBSI, LonesomeRobotics, ShadowWorks
 * 2020-0426: 1.5 (Skonks) for KSP 1.9.1
 	+ Added cfgs for:
 	+ Luciole  KK delta pack   KW rocketry   NovaPunch   EL   CST    KeR-7    AtomicAge    LETech    JX2   Pteron     LBSIRocketFaxtory      AtomicAge
