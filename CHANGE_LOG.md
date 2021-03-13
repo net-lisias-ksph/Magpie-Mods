@@ -1,5 +1,8 @@
 # Magpie Mods :: Change Log
 
+* 2020-0527: 1.5.5 (Skonks) for KSP 1.9.1
+	+ General bug fixes
+	+ Updated KK, space X
 * 2020-0505: 1.5.4 (Skonks) for KSP 1.9.1
 	+ Stock Landing gear meshed
 	+ Restock Wheel & Solar Meshes
