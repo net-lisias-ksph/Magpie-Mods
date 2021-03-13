@@ -1,5 +1,9 @@
 # Magpie Mods :: Change Log
 
+* 2020-0318: 1-3.2 (Skonks) for KSP 1.9.1
+	+ Added TAC to misc
+	+ Fixed stock 125 variants
+	+ ReStock plus added by Challyss
 * 2020-0314: 1.3-1 (Skonks) for KSP 1.9.1
 	+ NearFutureSuite Cfgs
 	+ Added Dmagic's Orbital science to misc
