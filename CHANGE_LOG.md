@@ -1,5 +1,8 @@
 # Magpie Mods :: Change Log
 
+* 2020-0321: 1.4.3 (Skonks) for KSP 1.9.1
+	+ Scansat
+	+ stock launch clamps
 * 2020-0321: 1.4.2 (Skonks) for KSP 1.9.1
 	+ fixed stock chutes
 * 2020-0318: 1.4 (Skonks) for KSP 1.9.1
