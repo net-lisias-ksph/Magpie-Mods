@@ -1,5 +1,23 @@
 # Magpie Mods :: Change Log
 
+* 2020-0505: 1.5.4 (Skonks) for KSP 1.9.1
+	+ Stock Landing gear meshed
+	+ Restock Wheel & Solar Meshes
+	+ Deployable Engines Fixed
+	+ HGR commuinity parts Added
+	+ Added cfgs for ;
+	+ Coromat
+	+ Cryo Engines
+	+ IXSWarp
+	+ Mk2.5 Shuttle
+	+ Mk2 Exp
+	+ Mk3 Exp
+	+ Mk3 Hypersonic
+	+ OPT
+	+ reDirect
+	+ RLA
+	+ SteamPunk
+	+ PathFinder
 * 2020-0430: 1.5.3 (Skonks) for KSP 1.9.1
 	+ Fixed Restock LaunchClamps
 	+ Updated Knes to Knes.1.7
