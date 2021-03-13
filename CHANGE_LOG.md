@@ -1,5 +1,7 @@
 # Magpie Mods :: Change Log
 
+* 2020-0322: 1.4.4 (Skonks) for KSP 1.9.1
+	+ Fixed Stock StackCoupler Variants
 * 2020-0321: 1.4.3 (Skonks) for KSP 1.9.1
 	+ Scansat
 	+ stock launch clamps
