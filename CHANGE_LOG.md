@@ -1,5 +1,8 @@
 # Magpie Mods :: Change Log
 
+* 2020-0324: 1.4.7 (Skonks) for KSP 1.9.1
+	+ Added; FuelTanksPlus,  KPBS,  Quiztech, Koose,  Deepfreeze,  MunarIND,  ModPods, KipardSkylon, FlatBottomShuttleSystems
+	+ Fixed;NoseCones
 * 2020-0323: 1.4.6 (Skonks) for KSP 1.9.1
 	+ quick fix for structural tubes
 	+ Added: Fuji, Koose, Fuel tank extension, Missing History to misc
