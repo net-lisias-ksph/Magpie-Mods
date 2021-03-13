@@ -1,5 +1,8 @@
 # Magpie Mods :: Change Log
 
+* 2020-0323: 1.4.6 (Skonks) for KSP 1.9.1
+	+ quick fix for structural tubes
+	+ Added: Fuji, Koose, Fuel tank extension, Missing History to misc
 * 2020-0322: 1.4.5 (Skonks) for KSP 1.9.1
 	+ Fixed Restock Mk2 Tanks
 	+ Fixed MH structural panel variants
