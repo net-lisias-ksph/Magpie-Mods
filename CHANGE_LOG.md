@@ -1,5 +1,12 @@
 # Magpie Mods :: Change Log
 
+* 2021-0118: 1.5.9 (Skonks) for KSP 1.11.0
+	+ The Rewhitening
+	+ Moved Fuel Tanks and cones to less metal
+	+ Added color property for brightness
+	+ Update to 1.11
+	+ Updated restock
+	+ Added B9HX, BlueSteel, Snacks, StreamlineEngines
 * 2020-0801: 1.5.8 (Skonks) for KSP 1.10.1
 	+ Fix restock wheel Variants
 	+ Updated SCANsat
