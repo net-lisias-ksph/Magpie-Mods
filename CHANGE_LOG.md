@@ -1,5 +1,7 @@
 # Magpie Mods :: Change Log
 
+* 2020-0429: 1.5.2 (Skonks) for KSP 1.9.1
+	+ Removed Foil tanks from restock cfg
 * 2020-0429: 1.5.1 (Skonks) for KSP 1.9.1
 	+ Updated Restock cfg
 	+ added
