@@ -1,5 +1,11 @@
 # Magpie Mods :: Change Log
 
+* 2020-0426: 1.5 (Skonks) for KSP 1.9.1
+	+ Added cfgs for:
+	+ Luciole  KK delta pack   KW rocketry   NovaPunch   EL   CST    KeR-7    AtomicAge    LETech    JX2   Pteron     LBSIRocketFaxtory      AtomicAge
+	+ RO    ROEngines   ForgottenRealEngines      ReslScaleBoosters     HGA       SmartParts
+	+ With thanks to hendrack for:
+	+ Contares     SSTX     Coatl     RLA      SXT      HabTech2    KRE    SSPX
 * 2020-0406: 1.4.9 (Skonks) for KSP 1.9.1
 	+ If Updating please delete old version I added folders for neatness so it wont overwrite the old cfgs
 	+ Fixed Stock 1.875 Variants
