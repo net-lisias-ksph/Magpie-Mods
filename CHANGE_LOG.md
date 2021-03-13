@@ -1,5 +1,7 @@
 # Magpie Mods :: Change Log
 
+* 2020-0321: 1.4.2 (Skonks) for KSP 1.9.1
+	+ fixed stock chutes
 * 2020-0318: 1.4 (Skonks) for KSP 1.9.1
 	+ No changelog provided
 * 2020-0312: 1.3.3 (Skonks) for KSP 1.9.1
