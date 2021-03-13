@@ -1,5 +1,8 @@
 # Magpie Mods :: Change Log
 
+* 2020-0801: 1.5.8 (Skonks) for KSP 1.10.1
+	+ Fix restock wheel Variants
+	+ Updated SCANsat
 * 2020-0729: 1.5.7 (Skonks) for KSP 1.10.1
 	+ Updated Knes cfg
 	+ Restock Dark fairing patch updated for 1.10.1
